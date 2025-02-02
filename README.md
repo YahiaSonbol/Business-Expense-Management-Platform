@@ -101,3 +101,17 @@ To set up and run the Node.js backend, follow these steps:
 ## Authors
 
 -   [@YahiaSonbol](https://www.linkedin.com/in/yahia-sonbol/)
+##Some Screenshots from the Website:
+
+#### LoginPage:
+![loginpage](README_images\LoginPage.png)"
+#### Dashboard:
+![dashboard](README_images\Dashboard.png)
+#### Departments:
+![departments](README_images\Departments.png)
+#### Add Project Modal:
+![addproject](README_images\AddProjectModal.png)
+#### Edit Project Modal:
+![editproject](README_images\EditButtonModal.png)
+#### Delete Project Modal:
+![deleteproject](README_images\DeleteButtonModal.png)
