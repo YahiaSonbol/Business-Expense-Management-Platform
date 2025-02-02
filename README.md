@@ -106,14 +106,14 @@ To set up and run the Node.js backend, follow these steps:
 ## Some Screenshots from the Website:
 
 #### LoginPage:
-![loginpage](README_images/LoginPage.png)"
+![Login Page](README_images/Login Page.png)
 #### Dashboard:
-![dashboard](README_images\Dashboard.png)
+![Dashboard Screenshot](README_images/Dashboard.png)
 #### Departments:
-![departments](README_images\Departments.png)
+![Departments Page](README_images/Departments.png)
 #### Add Project Modal:
-![addproject](README_images\AddProjectModal.png)
+![Add Project Modal](README_images/Add Project Modal.png)
 #### Edit Project Modal:
-![editproject](README_images\EditButtonModal.png)
+![Edit Button Modal](README_images/Edit Button Modal.png)
 #### Delete Project Modal:
-![deleteproject](README_images\DeleteButtonModal.png)
+![Delete Button Modal](README_images/Delete Button Modal.png)
