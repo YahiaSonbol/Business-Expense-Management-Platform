@@ -2,7 +2,7 @@
 
 ### Project Description
 
-This **Department and Project Management System** streamlines budget tracking, project management, and resource allocation. Built with **Node.js (Express.js)** and **MSSQL** for the backend, and **React**, **NextUI**, and **ECharts** for the frontend, it offers CRUD operations, real-time budget updates, and interactive dashboards. Ideal for optimizing financial and project workflows in organizations.
+This **Department and Project Management System** streamlines budget tracking, project management, and resource allocation. Built with **Node.js (Express.js)** and **MSSQL** for the backend, and **React**, **NextUI**, **ECharts** and the styling was done by **Tailwind** for the frontend , it offers CRUD operations, real-time budget updates, and interactive dashboards. Ideal for optimizing financial and project workflows in organizations.
 
 ## Installation
 
