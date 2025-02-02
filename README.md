@@ -104,7 +104,7 @@ To set up and run the Node.js backend, follow these steps:
 ##Some Screenshots from the Website:
 
 #### LoginPage:
-![loginpage](README_images\LoginPage.png)"
+![loginpage](README_images/LoginPage.png)"
 #### Dashboard:
 ![dashboard](README_images\Dashboard.png)
 #### Departments:
